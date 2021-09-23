@@ -1,0 +1,8 @@
+{
+  "name": "aws-code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:cgama-dev/aws-code.git",
+  "author": "Cleyton Gama <cleytongama@gmail.com>",
+  "license": "MIT"
+}
